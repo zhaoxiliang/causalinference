@@ -10,3 +10,6 @@ angrist.dta 是 Angrist and Krueger (1991) 所使用的1980年美国人口普查
 cardkrueger1994.dta 是 Card and Krueger (1994) 所使用的快餐店就业数据。
 smoking.dta 是 Abadie et al. (2010)合成控制法所使用的加州香烟销售数据。
 lee.dta 是 Lee(2008)所使用的美国众议员竞选数据。
+
+
+programs.zip是第5章至第9章的主要程序，还是比较初步，是我去年上课时写的，后面会不定时更新，供读者参考。
