@@ -22,3 +22,5 @@ programs.zip是第5章至第9章的主要程序，还是比较初步，是我去
 errata.docx是勘误表，是笔者和热心读者目前发现的印刷错误，为读者带来的不便深表歉意。如果读者发现其他错误可以发给我，信箱是：zhaoxiliang@gmail.com。多谢！
 
 rdrobust.zip（最新程序）和rdrobust_old.zip（老版本程序，可以画CV图）是断点回归程序，有些读者反映无法连接google下载，在此提供。解压后将所有文件拷贝到Stata目录\ado\plus\r或\ado\updates\r目录下即可使用。
+
+PPT.zip 是根据我上课用的课件，稍微修改了下，不是很精致，供各位老师参考！
