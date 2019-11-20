@@ -28,5 +28,6 @@ PPT.zip 是根据我上课用的课件，稍微修改了下，不是很精致，
 
 
 感谢李建成老师将本书程序转化为R代码，有需要者可以参见：
+
 https://mp.weixin.qq.com/s?__biz=MzI4NDcwMTU5MA==&mid=2247483846&idx=1&sn=b47acecf137e75aa6c262f75c1994be3&chksm=ebf6273fdc81ae29784914ad2e7d4eecf745599e9dabe1d1cf0ef1be761e1e270b09f6e030eb&mpshare=1&scene=1&srcid=0802fil7UjOOIAse9cWfjyz0&sharer_sharetime=1574208259547&sharer_shareid=ff2a7bc1fe1071d680581c5ea74f123f&key=ec7666f66bb2b36d3e3de8cfd67cd659e4aeff15ac913052e9c8021835c897d23c04be5a550f18923c5e151242e3ec2ae0b9021b36ab6f167d3a7e31252f797f5d8a9808e5341458907bb3bfcf27ef4b&ascene=1&uin=MTk2NTAyNjIxMw%3D%3D&devicetype=Windows+10&version=62070158&lang=zh_CN&pass_ticket=16Q3tRt5%2FxKNnIu5%2BSebLJx7G7LKQq%2FgP3kHYW%2FA4w3AA7EWN6couXb5rKSwC7Jt
 
